@@ -61,4 +61,4 @@ The original Blender `.blend` project file is available in the [Releases](../../
 
 ### Demo
 
-A demonstration video of the project is available in the [Releases](../../releases) section.
+The project demo video is available in the [`video`](./video) folder.
